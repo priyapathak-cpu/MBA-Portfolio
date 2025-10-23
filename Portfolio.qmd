@@ -1,0 +1,92 @@
+---
+project: 
+  type: website
+  output/directory: docsgit
+website:
+  title: "today"
+  navbar:
+    logo: "images/headshot.jpg"
+    logo-alt: "Priya Pathak headshot"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+---
+
+<div style="text-align: left; font-size: 32px; font-weight: bold;">
+  Priya Pathak - MBA Portfolio
+</div>
+<div style="text-align: left; font-size: 20px;">
+  MBA Candidate | Finance and Business Analytics
+</div>
+
+
+# 👋 About Me
+I am pursuing MBA at University Canada West majoring in Finance and Business Analytics. Having a background in commerce and a keen interest in financial decision-making, I am ardent in using analytical tools as supporting instruments of proper investment and budgeting approaches.
+
+My professional philosophy is based on financial integrity, life-long learning, and evidence-based management. I am especially driven by the issues that are associated with the consideration of capital investments, the optimization of resources distribution, and the enhancement of the long-term performance of an organization with the help of financial understanding.
+
+In the future, I am striving to work in organizations that focus on sustainable financial development, risk-taking innovation, and value creation to guarantee profitability and ethical and strategic business performance.
+
+# 🎓 Education
+Master of Business Administration (MBA)  
+University Canada West, Vancouver, BC (Expected 2026)
+Concentration: Finance and Business Analytics
+
+Key Projects:
+Capital Investment Analysis for Lunchbox Inc.: Compared two development alternatives for new sound engineering software using NPV and sensitivity analysis.
+Financial Modelling Project: Designed Excel-based models to forecast cash flows and evaluate return on investment scenarios.
+Recognition: Achieved distinction-level grades in Financial Management, Corporate Finance, and Quantitative Decision-Making.
+
+Bachelor of Commerce (B.Com with Account and Finance)
+Mumbai University, India
+Graduated with First rank in College
+Major: Accounting and Financial Management
+Awarded for outstanding performance in final-year strategic finance coursework.
+
+# 💼 Professional Highlights
+
+Graduate Projects and Applied Learning (2024–Present)
+Conducted capital budgeting analysis to support managerial investment decisions using NPV, IRR, and sensitivity techniques.
+Led team deliverables for MBA assignments involving budgeting, risk assessment, and project cost optimization.
+Completed a financial performance assessment project using real-world business case studies to identify cost-saving opportunities.
+Supported financial documentation and reporting tasks, aligning academic projects with corporate standards.
+
+Freelance Financial Analyst (Remote, 2021–2023)
+Provided financial planning and analysis support for small business clients.
+Built forecasting dashboards using Excel and Power BI to improve budgeting accuracy by 20%.
+Created cash flow statements and variance reports to support client decision-making.
+Delivered customized recommendations for improving cost structure and profitability.
+
+# 🧩 Core Competencies and Strengths
+
+Financial Modelling | Corporate Finance | Investment Appraisal (NPV, IRR)
+Cost Management | Risk Analysis | Budget Forecasting
+Data Analytics (Excel, Power BI, Tableau)
+
+Business & Strategic:
+Business Analysis | Performance Measurement | Decision Support
+Strategic Cost Control | Project Budgeting | Financial Reporting
+
+Interpersonal & Leadership:
+Team Collaboration | Conflict Management | Communication
+Leadership in multicultural teams | Time and Quality Management
+
+Professional Values:
+Integrity | Analytical Precision | Continuous Learning | Ethical Financial Practice
+
+# 🌱 Projects & Interests
+
+Research on Financial Technology (FinTech): Exploring how digital payment systems and AI-driven analytics reshape business finance.
+Personal Investment Learning: Applying portfolio diversification and valuation techniques to simulated equity markets.
+Volunteer Mentorship: Supporting new MBA students with academic planning and finance study resources.
+
+# 📬 Contact
+📧 priya.pathak@live.com  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/priya-pathak-162b16ab?utm_source=share_via&utm_content=profile&utm_medium=member_ios)  
+📍 Vancouver, BC
